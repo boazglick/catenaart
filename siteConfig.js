@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://juomedya.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://catenaart.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "juomedya.com", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "catenaart.com", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "juomedya.com", // This allows an alternative site description for meta data for pages.
+    "catenaart.com", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "juomedya.com", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "catenaart.com", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "juomedya.com",
+    title: "catenaart.com",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://juomedya.com/",
+        url: "https://catenaart.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://juomedya.com/contact",
+        url: "https://catenaart.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://juomedya.com/",
+        url: "https://catenaart.com/",
       },
       {
         label: "Sitemap",
-        url: "https://juomedya.com/sitemap.xml",
+        url: "https://catenaart.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://juomedya.com/contact",
+        url: "https://catenaart.com/contact",
       },
      
     ],
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "juomedya.com",
+    title: "catenaart.com",
     description:
-      "juomedya.com",
+      "catenaart.com",
   },
   twitterCard: {
     title: "",
@@ -82,15 +82,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "juomedya.com",
+    title: "catenaart.com",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "juomedya.com",
+  siteTitle: "catenaart.com",
   siteDescription:
-    "juomedya.com",
+    "catenaart.com",
   language: "he",
   logoUrl: "",
   iconUrl: "",
